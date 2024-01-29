@@ -1,0 +1,20 @@
+repo_name: cosmasokoth/postmark-templates
+report_id: c93b97718ac772111635d5601d6c5b12
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-29T06:24:46+00:00'
+requested_by: derekrushforth
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/cosmasokoth/postmark-templates
+  detection_source: Repo Metadata
